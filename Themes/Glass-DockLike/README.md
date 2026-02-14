@@ -1,3 +1,4 @@
+![Preview](screenshot.png)
 # Glass DockLike
 
 A glass-effect dock theme with custom blur and centering.
